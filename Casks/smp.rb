@@ -1,6 +1,6 @@
 cask "smp" do
-  version "0.9.0"
-  sha256 "3b776d88e762739511697acd6ebd0ad6dba23b3f654ea9a7ad78dda14bb545a7"
+  version "0.9.2"
+  sha256 "d75baef6b160cc1ce8b145116a5df370c2075525985eda3c627c8bdda3a3a5ad"
 
   url "https://github.com/kirikakaese/SMP/releases/download/v#{version}/SMP-#{version}.dmg"
   name "SSH Management Platform"
