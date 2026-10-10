@@ -1,6 +1,6 @@
 cask "drop" do
-  version "0.1.1"
-  sha256 "33161bf2cd96b17e8509a09bfb7f9df3a57c920d4f39308248782f5494e04dbe"
+  version "0.2.0"
+  sha256 "fe43851f9cc59111d4ea64087b759020d9a8fa558ca4cb10cd595a46b9e84571"
 
   url "https://github.com/kirikakaese/DROP-BETA/releases/download/v#{version}/DROP-#{version}.dmg"
   name "DROP"
